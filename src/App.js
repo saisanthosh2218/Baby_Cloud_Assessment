@@ -1,7 +1,7 @@
 import "./App.css";
-import PortfolioSection from "./PortfolioSection";
-import ProfileHeader from "./ProfileHeader";
-import SideBar from "./SideBar";
+import PortfolioSection from "./Components/PortfolioSection";
+import ProfileHeader from "./Components/PortfolioSection";
+import SideBar from "./Components/PortfolioSection";
 import IMAGE from "./assets/original-79da4406e6071a986b8536c45c993ffa.png";
 function App() {
   return (
