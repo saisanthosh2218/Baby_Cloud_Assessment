@@ -1,0 +1,17 @@
+#reach {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+/* App.css */
+.fixed-profile {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  padding: 1rem;
+  background-color: white;
+  transition: top 0.3s ease-in-out, padding 0.3s ease-in-out,
+    background-color 0.3s ease-in-out;
+}
